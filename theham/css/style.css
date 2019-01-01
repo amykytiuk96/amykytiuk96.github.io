@@ -342,7 +342,9 @@
 	line-height: 42px;
 	text-align: center;
 	transform: scaleX(1.0009);
-	border: none;
+	outline: none;
+	border: 0;
+        padding: 0;
 
 }
 
