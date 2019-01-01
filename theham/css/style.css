@@ -342,8 +342,8 @@
 	line-height: 42px;
 	text-align: center;
 	transform: scaleX(1.0009);
-	cursor: pointer;
-	outline: none;
+	border: none;
+
 }
 
 .work-buttons input:focus {
